@@ -14,7 +14,11 @@ ul.nav_bar {
   background-color: grey;
 }
 
-li.nav_bar a  {
+li.nav_bar {
+  float: left;
+}
+
+a.nav_bar {
   display: block;
   color: red;
   text-align: center;
