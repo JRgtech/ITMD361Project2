@@ -15,5 +15,13 @@ ul.nav_bar {
 }
 
 li.nav_bar  {
-  display: inline;
+  float: left;
+}
+
+li.nav_bar a  {
+  display: block;
+  color: red;
+  text-align: center;
+  padding: 12px 13px;
+  text-decoration: none;
 }
