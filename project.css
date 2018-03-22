@@ -14,10 +14,6 @@ ul.nav_bar {
   background-color: grey;
 }
 
-li.nav_bar  {
-  display: inline;
-}
-
 li.nav_bar a  {
   display: block;
   color: red;
