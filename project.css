@@ -15,7 +15,7 @@ ul.nav_bar {
 }
 
 li.nav_bar  {
-  float: left;
+  display: inline;
 }
 
 li.nav_bar a  {
