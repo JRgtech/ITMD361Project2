@@ -7,18 +7,18 @@ h1  {
   border-width: 3px;
 }
 
-ul.nav_bar {
+.nav_bar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   background-color: grey;
 }
 
-li.nav_bar {
+.nav_bar li {
   float: left;
 }
 
-a.nav_bar {
+.nav_bar a {
   display: block;
   color: red;
   text-align: center;
