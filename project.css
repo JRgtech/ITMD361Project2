@@ -43,8 +43,7 @@ h1  {
 }
 
 .addr p {
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
 }
 
 p {
