@@ -7,7 +7,7 @@ h1  {
   border-width: 3px;
 }
 
-nav.ul {
+ul.nav_bar {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -15,6 +15,6 @@ nav.ul {
   background-color: grey;
 }
 
-nav.li  {
+li.nav_bar  {
   float: left;
 }
