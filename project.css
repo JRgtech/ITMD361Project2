@@ -6,3 +6,11 @@ h1  {
   border-style: ridge;
   border-width: 3px;
 }
+
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+  background-color: grey;
+}
