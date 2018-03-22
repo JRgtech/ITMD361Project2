@@ -11,10 +11,9 @@ ul.nav_bar {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  display: inline;
   background-color: grey;
 }
 
 li.nav_bar  {
-  float: left;
+  display: inline;
 }
