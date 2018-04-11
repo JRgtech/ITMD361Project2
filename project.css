@@ -19,7 +19,7 @@ body  {
   color: white;
   padding: 12px 13px;
   text-decoration: none;
-  float: left
+  float: center;
 }
 
 h1  {
@@ -47,6 +47,10 @@ h3 {
 }
 
 .addr p {
+  text-align: center;
+}
+
+.resumelist ul {
   text-align: center;
 }
 
