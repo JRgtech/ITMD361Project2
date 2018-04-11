@@ -11,14 +11,12 @@ body  {
 }
 
 .nav_bar li {
-  text-align: center;
-  float: left;
+  float: center;
 }
 
 .nav_bar a {
   display: block;
   color: white;
-  text-align: center;
   padding: 12px 13px;
   text-decoration: none;
 }
