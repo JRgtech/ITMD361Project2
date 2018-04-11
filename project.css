@@ -19,6 +19,7 @@ body  {
   color: white;
   padding: 12px 13px;
   text-decoration: none;
+  float: left
 }
 
 h1  {
@@ -50,7 +51,7 @@ h3 {
 }
 
 p {
-  text-align: justify;
+  text-align: center;
 }
 
 .world img  {
