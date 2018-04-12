@@ -1,9 +1,10 @@
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
+   Modified for this project
 */
 
-/* html,body,div,h1, h2, h3, h4, h5, h6, p,
+html,body,div,h1, h2, h3, h4, h5, h6, p,
 a, img, ul, li
 {
 	margin: 0;
@@ -12,17 +13,17 @@ a, img, ul, li
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+  background-color: none;
+  list-style-type: none;
+  overflow: none;
+  text-align-last: none;
+  display: none;
+  color: none;
+  text-decoration: none;
+  float: none;
+  border-style: none;
+  border-width: 0px;
+  text-align: none;
+  margin-left: none;
+  margin-right: none;
 }
-*/
-
-/* HTML5 display-role reset for older browsers */
-/*
-nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ul {
-	list-style: none;
-*/
