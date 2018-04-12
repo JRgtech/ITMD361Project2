@@ -4,8 +4,7 @@
    Modified for this project
 */
 
-html,body,div,h1, h2, h3, h4, h5, h6, p,
-a, img, ul, li
+html,body,div,h1, h2, h3, p, a, img, ul, li
 {
 	margin: 0;
 	padding: 0;
