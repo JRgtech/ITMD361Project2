@@ -1,7 +1,7 @@
 
-@import url("cssreset.css");
+@import "cssreset.css";
 
-body  {
+body {
   background-color: peru;
 }
 
