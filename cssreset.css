@@ -13,7 +13,7 @@ a, img, ul, li
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-  background-color: none;
+  background-color: inherit;
   list-style-type: none;
   overflow: none;
   text-align-last: none;
