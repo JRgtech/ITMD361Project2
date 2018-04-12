@@ -3,7 +3,7 @@
    License: none (public domain)
 */
 
-html,body,div,h1, h2, h3, h4, h5, h6, p,
+/* html,body,div,h1, h2, h3, h4, h5, h6, p,
 a, img, ul, li
 {
 	margin: 0;
@@ -13,7 +13,10 @@ a, img, ul, li
 	font: inherit;
 	vertical-align: baseline;
 }
+*/
+
 /* HTML5 display-role reset for older browsers */
+/*
 nav, section {
 	display: block;
 }
@@ -22,3 +25,4 @@ body {
 }
 ul {
 	list-style: none;
+*/
